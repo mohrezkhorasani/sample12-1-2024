@@ -38,7 +38,7 @@ namespace Infrastracture
 
             //}
 
-            //string serviceurl = "https://api.kavenegar.com/v1/4F3149636555626B307736503270446970706E4971633970364B6F7864386153/verify/lookup.json?" + requestJson;
+            //string serviceurl = "https://api.kavenegar.com/v1/token/verify/lookup.json?" + requestJson;
             //var client = new HttpClient();
             //var response = client.GetAsync(serviceurl).Result;
 
